@@ -4,15 +4,6 @@ This repository contains code for the Speaker Voice Similarity Analysis and Eval
 
 ### Folder Structure
 
-data/ – ABI-1 Corpus audio and embedding files
-
 results/ – Output metrics and visualizations
 
 src/ – Source code for embedding extraction, evaluation, and visualization
-
-Assignment
-
-For more details, see the assignment specification or contact Andrea Gariboldi.
-
-License: MIT
-
